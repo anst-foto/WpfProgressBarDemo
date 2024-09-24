@@ -10,4 +10,3 @@ namespace WpfProgressBarDemo;
 public partial class App : Application
 {
 }
-
